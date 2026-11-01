@@ -1,0 +1,6 @@
+{
+  "name": "Occasio AI — GenAI Event Planning Assistant",
+  "description": "Production-grade, full-stack event planning assistant for Weddings, Birthdays, and Community Celebrations powered by Gemini 3.8 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
