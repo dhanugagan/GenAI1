@@ -109,6 +109,14 @@ app.get('/api/health', (_req: Request, res: Response) => {
 });
 
 /**
+ * Route: Download complete submission zip archive
+ */
+app.get('/api/download-submission-zip', (_req: Request, res: Response) => {
+  const zipPath = path.join(__dirname, 'occasio-ai-submission.zip');
+  res.download(zipPath, 'occasio-ai-submission.zip');
+});
+
+/**
  * Route: Generate full event plan blueprint
  */
 app.post('/api/ai/generate-event-plan', async (req: Request, res: Response) => {

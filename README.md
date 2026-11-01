@@ -1,6 +1,6 @@
 # Occasio AI — GenAI-Powered Celebration & Event Planning Assistant
 
-[![Hack2Skill Challenge 5](https://img.shields.io/badge/Hack2Skill-Challenge%205%20Submission-indigo.svg)](https://github.com/dhanugagan/GenAI)
+[![Hack2Skill Challenge 5](https://img.shields.io/badge/Hack2Skill-Challenge%205%20Submission-indigo.svg)](https://github.com/dhanugagan/GenAI1)
 [![Evaluation Target](https://img.shields.io/badge/AI%20Evaluation%20Target-100%2F100-emerald.svg)](#hackathon-evaluation-scorecard-100100)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8%2B%20Strict-blue.svg)](https://www.typescriptlang.org/)
 [![Google GenAI](https://img.shields.io/badge/Google%20GenAI-Gemini%203.8%20Flash-amber.svg)](https://ai.google.dev/)
@@ -30,7 +30,7 @@
 ## 🚀 Live Links & Project Assets
 
 - **Deployed Application Link:** [Occasio AI Live Applet](https://aistudio.google.com/apps/ececae09-e307-446f-a8e7-b8ddf3ba44d9?showAssistant=true&showPreview=true&fullscreenApplet=true)
-- **Public GitHub Repository:** [https://github.com/dhanugagan/GenAI](https://github.com/dhanugagan/GenAI)
+- **Public GitHub Repository:** [https://github.com/dhanugagan/GenAI1](https://github.com/dhanugagan/GenAI1)
 - **Project Demo Video:** [YouTube Video Submission](https://youtu.be/qYiOt9hdru8?si=JgNvsF-ArLvly0Gl)
 - **LinkedIn Submission Post:** [LinkedIn Showcase](https://lnkd.in/p/ddGs_7hF)
 

@@ -166,6 +166,29 @@ export const ExportModal: React.FC<ExportModalProps> = ({
           </button>
         </div>
 
+        {/* Action 4: Download Full Codebase for GitHub */}
+        <div className="p-4 rounded-xl bg-gradient-to-r from-indigo-950/60 to-purple-950/60 border border-indigo-500/30 flex items-center justify-between gap-3">
+          <div>
+            <h4 className="text-xs font-bold text-white flex items-center gap-1.5">
+              <span>📦 Download Complete Project Codebase (ZIP)</span>
+              <span className="text-[10px] text-emerald-400 font-mono bg-emerald-500/10 px-1.5 py-0.2 rounded border border-emerald-500/20">
+                &lt; 1 MB
+              </span>
+            </h4>
+            <p className="text-[11px] text-slate-300 mt-0.5">
+              Contains all source code, tests, configs, and README.md ready to extract and push to your GitHub repo.
+            </p>
+          </div>
+          <a
+            href="/api/download-submission-zip"
+            download="occasio-ai-submission.zip"
+            className="px-3.5 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-xs whitespace-nowrap shadow-md transition-all active:scale-95 flex items-center gap-1.5 shrink-0"
+          >
+            <Download className="w-3.5 h-3.5" />
+            <span>Download ZIP</span>
+          </a>
+        </div>
+
         {/* Dossier Preview Summary */}
         <div className="p-5 rounded-xl bg-slate-950/60 border border-slate-800 space-y-3">
           <h4 className="text-xs font-bold text-white uppercase tracking-wider">
